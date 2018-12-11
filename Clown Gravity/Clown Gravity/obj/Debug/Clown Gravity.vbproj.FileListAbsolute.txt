@@ -1,0 +1,13 @@
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\bin\Debug\Clown Gravity.exe
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\bin\Debug\Clown Gravity.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\bin\Debug\Clown Gravity.xml
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown_Gravity.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown_Gravity.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown Gravity.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown Gravity.exe
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown Gravity.xml
+C:\Users\User\AppData\Local\Temporary Projects\Clown Gravity\obj\Debug\Clown Gravity.pdb
+E:\עבודות\Sunspark - VB\Clown Gravity\Clown Gravity\obj\Debug\Clown Gravity.exe
+E:\עבודות\Sunspark - VB\Clown Gravity\Clown Gravity\obj\Debug\Clown Gravity.xml
+E:\עבודות\Sunspark - VB\Clown Gravity\Clown Gravity\obj\Debug\Clown Gravity.pdb

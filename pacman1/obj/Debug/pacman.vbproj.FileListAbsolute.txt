@@ -1,0 +1,10 @@
+C:\Users\User\AppData\Local\Temporary Projects\pacman\bin\Debug\pacman.exe
+C:\Users\User\AppData\Local\Temporary Projects\pacman\bin\Debug\pacman.pdb
+C:\Users\User\AppData\Local\Temporary Projects\pacman\bin\Debug\pacman.xml
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.exe
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.xml
+C:\Users\User\AppData\Local\Temporary Projects\pacman\obj\Debug\pacman.pdb
